@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Suwayomi is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://suwayomi.org/
+Suwayomi is an open-source manga reading platform that provides a server and multiple client applications for streaming and managing manga libraries. It offers a RESTful API for integration with third‑party tools, enabling developers to access library data, manage reading progress, and retrieve content metadata. The project is community‑driven, with active development on GitHub and documentation hosted at its official website.
+
+**Areas:** Company · Manga · OpenSource · Media · Server · Community
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://suwayomi.org/)
+- [GitHub](https://github.com/Suwayomi)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/suwayomi/](https://apis.io/providers/suwayomi/).
